@@ -6,12 +6,12 @@ Welcome to my **Data Analyst Portfolio** repository! I'm Bharath Kumar — an as
 
 ## 👨‍💻 About Me
 
-- 💼 **Aspiring Data Analyst Trainer**
+- 💼 **Aspiring Data Analyst **
 - 🧠 Strong foundations in **SQL, Python, Power BI, and AWS**
 - 📊 Focused on building interactive dashboards, automating reporting, and delivering insights
 - 🗣️ Passionate about mentoring and simplifying technical concepts for beginners
 
-🔗 **Portfolio Website**: [View Here](https://bharathyadav524.github.io/portfolio_new/)  
+🔗 **Portfolio Website**: [View Here](https://bharathyadav524.github.io/portfolio-data-analyst/)  
 🔗 **LinkedIn**: [linkedin.com/in/bharathkumar524](https://www.linkedin.com/in/bharathkumar524/)  
 📧 **Email**: bharath524419@gmail.com
 
@@ -64,7 +64,7 @@ Welcome to my **Data Analyst Portfolio** repository! I'm Bharath Kumar — an as
 ## 📈 Live Portfolio Site
 
 You can view this portfolio live at:  
-🔗 **[https://bharathyadav524.github.io/portfolio_new/](https://bharathyadav524.github.io/portfolio_new/)**
+🔗 **[https://bharathyadav524.github.io/portfolio_new/](https://bharathyadav524.github.io/portfolio-data-analyst/)**
 
 ---
 
