@@ -6,7 +6,7 @@ Welcome to my **Data Analyst Portfolio** repository! I'm Bharath Kumar — an as
 
 ## 👨‍💻 About Me
 
-- 💼 **Aspiring Data Analyst **
+- 💼 **Aspiring Data Analyst**
 - 🧠 Strong foundations in **SQL, Python, Power BI, and AWS**
 - 📊 Focused on building interactive dashboards, automating reporting, and delivering insights
 - 🗣️ Passionate about mentoring and simplifying technical concepts for beginners
